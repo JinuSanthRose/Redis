@@ -1,2 +1,3 @@
 # Redis
-Redis Configuration
+Redis Configurations
+Using Jedis as client
